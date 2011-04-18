@@ -1,0 +1,23 @@
+Tree implementation example in PHP. 
+===================================
+
+Test 1
+--------------
+
+Celem testu jest sprawdzenie umiejętności programowania obiektowego. 
+
+Poproszę z zapoznanie się z zawartością pliku ex1.php.
+
+Celem zadania jest utworzenie brakującej klasy "TreeNode" oraz utworzenie niezbędnych metod, 
+aby skrypt po wykonaniu zwrócił następujący wynik: 
+
+<pre>1. Strona glowna
+ |-1.1. Podstrona 1
+ |-1.2. Podstrona 2
+   |-1.2.1. Podstrona podstrony 2
+     |-1.2.1.1. I jeszcze jeden element
+
+Wynikiem pracy powinien być plik "treeNode.class.php" wrzucony do repozytorium GIT. 
+UWAGA: plik "ex1.php" nie może być zmieniany. 
+
+
